@@ -1,0 +1,13 @@
+Open Google Colab:
+Navigate to Google Colab in your web browser.
+Upload Notebook:
+Click on File -> Upload Notebook.
+Select the "Fine_tune_Llama_2_colab_final.ipynb" file from your local system and upload it.
+Select a GPU:
+Navigate to the notebook menu and click on Runtime.
+Then, select Change runtime type.
+In the dropdown menu for Hardware accelerator, choose GPU.
+Click Save.
+Run the Notebook:
+Simply run the notebook cells by clicking the play button on each code cell, or use Ctrl + Enter to run the currently selected cell.
+This will execute the code within the notebook.
