@@ -17,5 +17,6 @@ Click Save.
 Simply run the notebook cells by clicking the play button on each code cell, or use Ctrl + Enter to run the currently selected cell.  
 This will execute the code within the notebook.  
 
-![Dataset](Images/Screenshot%202024-04-21%20010528.png)
+## Training loss
+![Training loss](Images/Screenshot%202024-04-21%20010528.png)
 
