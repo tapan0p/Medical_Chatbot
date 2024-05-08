@@ -17,6 +17,18 @@ Click Save.
 Simply run the notebook cells by clicking the play button on each code cell, or use Ctrl + Enter to run the currently selected cell.  
 This will execute the code within the notebook.  
 
+
+## Dataset
+![Dataset](Images/Screenshot%202024-04-22%20115603.png)
+## Training
+![Training](![Dataset](Images/Screenshot%202024-04-22%20110903.png)
+)
 ## Training loss
-![Training loss](Images/Screenshot%202024-04-21%20010528.png)
+![Training loss](Images/Screenshot%202024-04-21%20010528.pn)
+## Learning rate
+![Learning rate](Images/Screenshot%202024-04-22%20133205.png)
+## Question answering
+![Inference](Images/Screenshot%202024-04-22%20111001.png)
+![Inference](Images/Screenshot%202024-04-22%20111030.png)
+
 
