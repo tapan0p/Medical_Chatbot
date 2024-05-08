@@ -21,10 +21,9 @@ This will execute the code within the notebook.
 ## Dataset
 ![Dataset](Images/Screenshot%202024-04-22%20115603.png)
 ## Training
-![Training](![Dataset](Images/Screenshot%202024-04-22%20110903.png)
-)
+![Training](Images/Screenshot%202024-04-22%20110903.png)
 ## Training loss
-![Training loss](Images/Screenshot%202024-04-21%20010528.pn)
+![Training loss](Images/Screenshot%202024-04-21%20010528.png)
 ## Learning rate
 ![Learning rate](Images/Screenshot%202024-04-22%20133205.png)
 ## Question answering
